@@ -1,3 +1,3 @@
 ﻿# A Chair Shop!
 ![Teaser Image](./Teaser.PNG)
-[Visit the website](https://hooopla.github.io/Chair-Shop/)
+[Visit the website](https://hooopi-food.netlify.app/)
